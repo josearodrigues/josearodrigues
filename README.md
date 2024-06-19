@@ -15,7 +15,15 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 -->
 
 
-<div style="display: inline_block"><br>
+<div>
+    <a href="https://github.com/josearodrigues/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josearodrigues&repo=github-readme-stats" />
+    </a>
+    <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josearodrigues&repo=convoychat" />
+    </a>
+
+
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josearodrigues&show_icons=true&theme=radical)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josearodrigues&hide_progress=true)
