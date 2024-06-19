@@ -1,4 +1,4 @@
-## Olá, eu sou José Rodrigues! Voltando a programar...
+## Olá, eu sou José Rodrigues!
 
 <!--
 **josearodrigues/josearodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 Atualmente, só estudando.
 - 🌱 Estou aprendendo sobre o Git/GitHub ...
+- ✨ Estou desenvolvendo em Terraform ...
 
 <!--
 Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
@@ -14,11 +15,12 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 -->
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Terraform" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg">
 </div>
   
   ##
