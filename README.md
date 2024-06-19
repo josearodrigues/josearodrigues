@@ -16,20 +16,19 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 
 
 <div>
-  <a href="https://github.com/josearodrigues/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josearodrigues&repo=convoychat" />
+  <a href="https://github.com/josearodrigues/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=josearodrigues&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/josearodrigues/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josearodrigues&hide_progress=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josearodrigues" />
   </a>
 </div>
-
-<div>
+<!--
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josearodrigues&show_icons=true&theme=radical)
-
+-->
+<!--
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josearodrigues&hide_progress=true)
-</div>
-
+-->
 <div style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
