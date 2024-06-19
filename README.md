@@ -4,7 +4,7 @@
 - 🌱 Estou aprendendo sobre o Git/GitHub ...
 - ✨ Estou desenvolvendo em Terraform ...
 
-<div align="center">
+<div align="center"><br>
   <a href="https://github.com/josearodrigues/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=josearodrigues&show_icons=true&theme=radical"/>
   </a>
