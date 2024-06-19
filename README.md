@@ -1,34 +1,18 @@
 ## Olá, eu sou José Rodrigues!
 
-<!--
-**josearodrigues/josearodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 - 🔭 Atualmente, só estudando.
 - 🌱 Estou aprendendo sobre o Git/GitHub ...
 - ✨ Estou desenvolvendo em Terraform ...
 
-<!--
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
--->
-
-
 <div>
   <a href="https://github.com/josearodrigues/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=josearodrigues&show_icons=true&theme=radical" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=josearodrigues&show_icons=true&theme=radical"/>
   </a>
   <a href="https://github.com/josearodrigues/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josearodrigues" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josearodrigues&layout=compact&langs_count=8&card_width=320"/>
   </a>
 </div>
-<!--
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josearodrigues&show_icons=true&theme=radical)
--->
-<!--
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josearodrigues&hide_progress=true)
--->
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
