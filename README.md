@@ -1,8 +1,6 @@
 ## Olá, eu sou José Rodrigues!
 
 - 🔭 Atualmente, só estudando.
-- 🌱 Estou aprendendo sobre o Git/GitHub ...
-- ✨ Estou desenvolvendo em Terraform ...
 
 <div align="center"><br>
   <a href="https://github.com/josearodrigues/github-readme-stats">
@@ -32,8 +30,8 @@
   ##
  
 <div align="center"> 
-  <a href="https://www.youtube.com/channel/UCEgeCmNN-8CTPDHeTjBMzIw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<!--  <a href="https://www.youtube.com/channel/UCEgeCmNN-8CTPDHeTjBMzIw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
   <a href="https://www.linkedin.com/in/joseamericorodrigues" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
