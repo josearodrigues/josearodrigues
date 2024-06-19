@@ -4,12 +4,12 @@
 - 🌱 Estou aprendendo sobre o Git/GitHub ...
 - ✨ Estou desenvolvendo em Terraform ...
 
-<div style="display: inline_block">
+<div>
   <a href="https://github.com/josearodrigues/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=josearodrigues&show_icons=true&theme=radical"/>
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=josearodrigues&show_icons=true&theme=radical"/>
   </a>
   <a href="https://github.com/josearodrigues/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josearodrigues&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&card_width=300"/>
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josearodrigues&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5"/>
   </a>
 </div>
 
