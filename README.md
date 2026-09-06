@@ -2,14 +2,6 @@
 
 - 🔭 Atualmente, só estudando.
 
-<div align="center"><br>
-  <a href="https://github.com/josearodrigues">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=josearodrigues&show_icons=true&theme=radical"/>
-  </a>
-</div>
-
----
-
 ## 📊 Estatísticas de Linguagens
 
 `JavaScript  ` ██████████░░░░░░░░░░ 32.5%
@@ -20,8 +12,6 @@
 `Java        ` ██░░░░░░░░░░░░░░░░░░  2.3%
 
 *Última atualização: 06/09/2026 às 16:44:20*
-
----
 
 ## 💻 Linguagens e Tecnologias
 
