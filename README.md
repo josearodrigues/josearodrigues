@@ -12,14 +12,14 @@
 
 ## 📊 Estatísticas de Linguagens
 
-`JavaScript  ` ██████████░░░░░░░░░░ 35.2%
-`Python      ` ████████░░░░░░░░░░░░ 28.5%
-`HTML        ` ██████░░░░░░░░░░░░░░ 18.3%
-`CSS         ` ████░░░░░░░░░░░░░░░░ 10.1%
-`Java        ` ██░░░░░░░░░░░░░░░░░░  5.3%
-`C           ` ██░░░░░░░░░░░░░░░░░░  2.6%
+`JavaScript  ` ██████████░░░░░░░░░░ 32.5%
+`Python      ` █████████░░░░░░░░░░░ 28.7%
+`Rust        ` ████████░░░░░░░░░░░░ 18.9%
+`HTML        ` █████░░░░░░░░░░░░░░░ 12.4%
+`CSS         ` ███░░░░░░░░░░░░░░░░░  5.2%
+`Java        ` ██░░░░░░░░░░░░░░░░░░  2.3%
 
-*Última atualização: 06/09/2026 às 16:42:16*
+*Última atualização: 06/09/2026 às 16:44:20*
 
 ---
 
@@ -29,11 +29,11 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/Visual%20Basic-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="Visual Basic">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
 </div>
 
 ---
