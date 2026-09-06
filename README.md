@@ -3,7 +3,7 @@
 - 🔭 Atualmente, só estudando.
 
 <div align="center"><br>
-  <a href="https://github.com/josearodrigues/github-readme-stats">
+  <a href="https://github.com/josearodrigues">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=josearodrigues&show_icons=true&theme=radical"/>
   </a>
 </div>
@@ -11,7 +11,7 @@
 ---
 
 <div align="center"><br>
-  <a href="https://github.com/josearodrigues/github-readme-stats">
+  <a href="https://github.com/josearodrigues">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josearodrigues&layout=compact"/>
   </a>
 </div>
