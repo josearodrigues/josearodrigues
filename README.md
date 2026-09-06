@@ -10,6 +10,19 @@
 
 ---
 
+## 📊 Estatísticas de Linguagens
+
+`JavaScript  ` ██████████░░░░░░░░░░ 35.2%
+`Python      ` ████████░░░░░░░░░░░░ 28.5%
+`HTML        ` ██████░░░░░░░░░░░░░░ 18.3%
+`CSS         ` ████░░░░░░░░░░░░░░░░ 10.1%
+`Java        ` ██░░░░░░░░░░░░░░░░░░  5.3%
+`C           ` ██░░░░░░░░░░░░░░░░░░  2.6%
+
+*Última atualização: 06/09/2026 às 16:42:16*
+
+---
+
 ## 💻 Linguagens e Tecnologias
 
 <div align="center">
