@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/Visual%20Basic-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="Visual Basic">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
 </div>
 
 ---
