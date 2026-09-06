@@ -4,6 +4,8 @@
 
 ## 📊 Estatísticas de Linguagens
 
+<div align="center">
+
 <!-- START_SECTION:languages -->
 
 | Linguagem | Uso |
@@ -16,6 +18,8 @@
 | **Java** | ███░░░░░░░░░░░░░░░░░  2.3% |
 
 <!-- END_SECTION:languages -->
+
+</div>
 
 ## 💻 Linguagens e Tecnologias
 
