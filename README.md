@@ -2,36 +2,33 @@
 
 - 🔭 Atualmente, só estudando.
 
-<div align="center"><br>
-  <a href="https://github.com/josearodrigues/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=josearodrigues&show_icons=true&theme=radical"/>
-  </a>
-</div>
-  
-  ##
- 
-<div align="center"><br>
-  <a href="https://github.com/josearodrigues/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josearodrigues&layout=compact"/> <!--&langs_count=8&size_weight=0.5&count_weight=0.5-->
-  </a>
+## 📊 Estatísticas de Linguagens
+
+| Linguagem | Uso |
+|-----------|-----|
+| **JavaScript** | ████████████░░░░░░░░ 32.5% |
+| **Python** | ███████████░░░░░░░░░ 28.7% |
+| **Rust** | ██████████░░░░░░░░░░ 18.9% |
+| **HTML** | ██████░░░░░░░░░░░░░░ 12.4% |
+| **CSS** | ████░░░░░░░░░░░░░░░░  5.2% |
+| **Java** | ███░░░░░░░░░░░░░░░░░  2.3% |
+
+## 💻 Linguagens e Tecnologias
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Visual%20Basic-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="Visual Basic">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
 </div>
 
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="Visual Basic" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Terraform" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg">
-</div>
-  
-  ##
- 
-<div align="center"> 
-<!--  <a href="https://www.youtube.com/channel/UCEgeCmNN-8CTPDHeTjBMzIw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
-  <a href="https://www.linkedin.com/in/joseamericorodrigues" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/joseamericorodrigues" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
