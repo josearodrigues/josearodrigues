@@ -4,10 +4,6 @@
 
 ## 📊 Estatísticas de Linguagens
 
-<table align="left">
-<tr>
-<td>
-
 | Linguagem | Uso |
 |-----------|-----|
 | **JavaScript** | ████████████░░░░░░░░ 32.5% |
@@ -16,14 +12,6 @@
 | **HTML** | ██████░░░░░░░░░░░░░░ 12.4% |
 | **CSS** | ████░░░░░░░░░░░░░░░░  5.2% |
 | **Java** | ███░░░░░░░░░░░░░░░░░  2.3% |
-
-</td>
-</tr>
-</table>
-
-<br><br><br><br><br><br>
-
----
 
 ## 💻 Linguagens e Tecnologias
 
