@@ -1,0 +1,60 @@
+name: Atualizar Estatísticas de Linguagens
+
+on:
+  schedule:
+    # Executa todos os dias às 00:00 UTC
+    - cron: '0 0 * * *'
+
+  # Permite disparo manual via interface do GitHub Actions para testes e validações imediatas
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Garante que execuções concorrentes não colidam em operações de git push
+concurrency:
+  group: update-profile-readme
+  cancel-in-progress: false
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run update script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
+          README_PATH: README.md
+        run: python scripts/update_readme.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          # Verifica se houve alteração no README.md gerado
+          if git diff --quiet README.md; then
+            echo "Nenhuma alteração nas estatísticas. Encerrando sem criar commits."
+            exit 0
+          fi
+
+          git add README.md
+          git commit -m "docs: atualizar estatísticas de linguagens"
+          git push
